@@ -85,7 +85,7 @@
 ### **2. MealPlanner Pro**
 *Proyecto de evaluación del Máster: una aplicación web para la gestión inteligente de recetas y planificación de comidas, desarrollado para profundizar en JavaScript, HTML, CSS y la manipulación del DOM.*
 - **Características clave:** Planificación personalizada (intolerancias, preferencias), organización cronológica, filtrado avanzado, gestión de usuarios (roles, notificaciones), panel de administración con control total.
-- **Tecnologías clave:** JavaScript, HTML, CSS, React.js, Node.js, Express.js, MongoDB, JWT, APIs RESTful.
+- **Tecnologías clave:** JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, JWT, APIs RESTful.
 - [🔗 Ver Repositorio en GitHub](https://github.com/JesusRodMan/evaluacion-mealplanner-pro)
 
 ---
