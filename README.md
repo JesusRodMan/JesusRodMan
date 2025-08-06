@@ -82,7 +82,7 @@
     - **Base de Datos:** MongoDB, Mongoose.
     - **Autenticación:** JWT, Bycrypt.
     - **Despliegue:** Render (backend), Vercel (frontend).
-- [🔗 Ver Repositorio Frontend](https://github.com/JesusRodMan/restaurante-crm-frontend) | [🔗 Ver Repositorio Backend](https://github.com/JesusRodMan/restaurante-crm-backend)
+- [🔗 Ver Repositorio Frontend](https://github.com/JesusRodMan/DineSync-Frontend) | [🔗 Ver Repositorio Backend](https://github.com/JesusRodMan/DineSync-Backend)
 
 ### **2. MealPlanner Pro**
 *Proyecto de evaluación del Máster: una aplicación web para la gestión inteligente de recetas y planificación de comidas, desarrollado para profundizar en JavaScript, HTML, CSS y la manipulación del DOM.*
